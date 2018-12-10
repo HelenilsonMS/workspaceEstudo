@@ -1,0 +1,4 @@
+com/hms/microservice/ExchangeValue.class
+com/hms/microservice/ExchangeValueRepository.class
+com/hms/microservice/CurrencyExchangeController.class
+com/hms/microservice/CurrencyExchangeServiceApplication.class
